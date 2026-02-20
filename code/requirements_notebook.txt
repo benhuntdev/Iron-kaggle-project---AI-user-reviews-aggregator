@@ -1,0 +1,11 @@
+joblib==1.5.3
+pandas==3.0.1
+streamlit==1.54.0
+numpy
+scikit-learn
+matplotlib
+umap-learn
+joblib
+sentence-transformers
+ollama
+rouge-score
