@@ -1,0 +1,25 @@
+numpy
+pandas
+scipy
+tqdm
+joblib
+matplotlib
+scikit-learn
+sentence-transformers
+umap-learn
+transformers
+datasets
+accelerate
+evaluate
+sentencepiece
+streamlit
+requests
+python-dotenv
+optimum
+onnxruntime
+onnxruntime-tools
+# xgboost
+# gensim
+# plotly
+# ollama
+# torch  # optional; install separately if GPU matters
