@@ -196,7 +196,7 @@ Both interfaces operate on the same classification and clustering pipeline.
 
 ## Project Structure
 
-
+```
 review-aggregator/
 │
 ├── data/
@@ -213,7 +213,7 @@ review-aggregator/
 ├── models/
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
